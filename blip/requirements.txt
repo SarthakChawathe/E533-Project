@@ -1,0 +1,13 @@
+apache_beam
+mwparserfromhell
+faiss-gpu
+accelerate
+datasets
+numpy
+transformer
+tf-gpu
+tensorflow
+PIL
+pandas
+scikit-learn
+matplotlib
